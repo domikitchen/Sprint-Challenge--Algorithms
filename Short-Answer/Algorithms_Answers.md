@@ -8,7 +8,7 @@ a) O(n) will run depending on the value of n
 b) O(n^2) nested loops dependant on a changing variable
 
 
-c) O(1) will run depending on an unchanging variable
+c) O(n) will run recursively
 
 ## Exercise II
 
